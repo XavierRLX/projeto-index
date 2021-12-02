@@ -128,22 +128,21 @@ h2{
     background-color: #02c018;
     border-top-left-radius: 8px;
     border-top-right-radius: 8px;
-    }
-    div.videos{
-        background-color: rgba(144, 236, 144, 0.884);
-        margin: 0px -20px 30px -20px; 
-        padding: 20px;
-        position: relative;
-        padding-bottom: 55%;
-    }
+}
+div.videos{
+    background-color: rgba(144, 236, 144, 0.884);
+    margin: 0px -20px 30px -20px; 
+    padding: 20px;
+    position: relative;
+    padding-bottom: 55%;
+}
     div.videos > iframe {
-        position: absolute;
-        top: 5%;
-        left: 5%;
-        width: 90%;
-        height: 90%;
-        
-    }
+    position: absolute;
+    top: 5%;
+    left: 5%;
+    width: 90%;
+    height: 90%;
+}
     
 #block{
       background-color: var(--cor1);
